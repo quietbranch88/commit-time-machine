@@ -41,3 +41,7 @@ npx serve
 ## License
 
 MIT.
+
+---
+
+Built by **[Zoe](https://zoe-site-ten.vercel.app)**, who writes about AI products, backend systems, and practical engineering judgment.
