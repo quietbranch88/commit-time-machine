@@ -9,7 +9,8 @@ A tiny tool that analyzes your GitHub commit patterns.
 - Longest streak?
 - Builder, fixer, or maintainer?
 
-Pure frontend — your username and (optional) token never leave your browser.
+Analysis runs in your browser. Requests to GitHub's API include your username
+and, if provided, your token to authenticate those requests.
 
 ## Why a token (optional)
 
@@ -44,4 +45,4 @@ MIT.
 
 ---
 
-Built by **[Zoe](https://zoe-site-ten.vercel.app)**, who writes about AI products, backend systems, and practical engineering judgment.
+Built by **[Zoe](https://zoe-builds.com/)**, who writes about AI products, backend systems, and practical engineering judgment.
