@@ -1,6 +1,6 @@
 # 🕰️ Commit Time Machine
 
-**Live: [zoetw88.github.io/commit-time-machine](https://zoetw88.github.io/commit-time-machine)**
+**Live: [quietbranch88.github.io/commit-time-machine](https://quietbranch88.github.io/commit-time-machine)**
 
 A tiny tool that analyzes your GitHub commit patterns.
 

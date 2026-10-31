@@ -3,7 +3,7 @@
 // Uses `gh` CLI (already authenticated) to fetch repos + commits.
 import { execSync } from 'node:child_process';
 
-const USER = process.argv[2] || 'zoetw88';
+const USER = process.argv[2] || 'quietbranch88';
 const MAX_COMMITS_PER_REPO = 500;
 
 function gh(path) {

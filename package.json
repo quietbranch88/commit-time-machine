@@ -1,23 +1,23 @@
 {
   "name": "commit-time-machine",
   "version": "1.0.0",
-  "description": "**Live: [zoetw88.github.io/commit-time-machine](https://zoetw88.github.io/commit-time-machine)**",
+  "description": "Analyze GitHub commit patterns in the browser.",
   "main": "app.js",
   "scripts": {
     "test": "vitest run"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zoetw88/commit-time-machine.git"
+    "url": "git+https://github.com/quietbranch88/commit-time-machine.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/zoetw88/commit-time-machine/issues"
+    "url": "https://github.com/quietbranch88/commit-time-machine/issues"
   },
-  "homepage": "https://github.com/zoetw88/commit-time-machine#readme",
+  "homepage": "https://quietbranch88.github.io/commit-time-machine",
   "devDependencies": {
     "vitest": "^4.1.7"
   }
